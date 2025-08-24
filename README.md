@@ -105,11 +105,11 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 • National Business Strategy and Management Championship (GMC) – Championship Finalist *(2018)*  
 • Student Management Cup (RANEPA) – Cup Semi-finalist *(2018)* 
 
-💼 Case analysis and solution:  
+💼 Case Analysis & Solutions:  
 • ["Cost Allocation Case"](https://cv-git-main-maxim-terltskiis-projects.vercel.app/cases/case_msg_plaut.pdf) (MSG Plaut) - Successful use of algebraic methods for cost calculation *(2021)*  
 • ["Superproduction Company Case"](https://cv-git-main-maxim-terltskiis-projects.vercel.app/cases/case_changellenge.pdf) (Changellenge) - Successful customer data analysis and OpenAPI service implementation *(2021)*  
 
-🎯 Achievements:  
+🎯 Achievements:
 • [Bachelor's degree](https://cv-git-main-maxim-terltskiis-projects.vercel.app/about/honours_degree.pdf) with honors   
 • PhD degree ([PhD № 001091](https://cv-git-main-maxim-terltskiis-projects.vercel.app/about/pdf_diploma.pdf))   
 • Gratitude from the RUDN University administration for [volunteer activities](https://cv-git-main-maxim-terltskiis-projects.vercel.app/about/volunteering.pdf)   
