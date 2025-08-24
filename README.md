@@ -100,8 +100,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 ## 🏆 Achievements & Competitions  
 
-• 🥇 Hackathon Winner: Telegram bot for O2RUS (2024)  
-
+- 🥇 Hackathon Winner: Telegram bot for O2RUS (2024)  
 - 🎯 Changellenge Case (SAP Cloud Academy, 2021) – Best score among 150 participants  
 - 🎓 Red diploma (Bachelor), PhD, 5 published scientific papers (Scopus / VAK)  
 - 🤝 Volunteer recognition from RUDN University  
@@ -110,7 +109,9 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 ## 📬 Contacts  
 
-📧 **Email:** max.t95@bk.ru  
-📱 **Phone:** +7 (965) 258-97-77  
+📧 **Email:** [max.t95@bk.ru](mailto:max.t95@bk.ru)  
+📱 **Phone:** [+7 (965) 258-97-77](tel:+79652589777)  
 💬 **Telegram:** [@maxter1995](https://t.me/maxter1995)  
+👥 **VK:** [maxter95](https://vk.com/maxter95)  
 🐙 **GitHub:** [maxter9595](https://github.com/maxter9595)  
+📄 **Online CV:** [View Portfolio](https://cv-git-main-maxim-terltskiis-projects.vercel.app/)
