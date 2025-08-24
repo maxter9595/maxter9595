@@ -17,7 +17,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 ## 💼 Work Experience
 
-<table style="margin-top: 15px; margin-bottom: -15px;">
+<table style="margin-top: 15px; width: 100%">
   <tr>
     <td align="center" width="150">
       <img src="assets/logos/rutisoft.png" width="auto" height="auto" alt="Rotisoft Logo">
