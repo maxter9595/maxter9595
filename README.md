@@ -19,10 +19,10 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 <table style="margin-top: 15px; width: 100%">
   <tr>
-    <td align="center" width="370">
+    <td align="center" width="500">
       <img src="assets/logos/rutisoft.png" width="auto" height="auto" alt="Rotisoft Logo">
     </td>
-    <td style="padding-bottom: 15px;">
+    <td style="padding-bottom: 15px;" width="1000">
       <strong>LLC «Rotisoft Corporation» – Software Developer</strong> <em>(10.2024 - now)</em><br>
       • Debugging and improving business processes for RC of large companies<br>
       • Expanding IT solutions functionality<br>
@@ -30,7 +30,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
-    <td align="center" width="370">
+    <td align="center">
       <img src="assets/logos/o2rus.png" width="auto" height="auto" alt="O2RUS Logo">
     </td>
     <td style="padding-bottom: 15px; padding-top: 15px;">
@@ -41,7 +41,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
-    <td align="center" width="370">
+    <td align="center">
       <img src="assets/logos/detskiymir.png" width="auto" height="40" alt="DM-Tech Logo">
     </td>
     <td style="padding-bottom: 15px; padding-top: 15px;">
@@ -52,7 +52,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
-    <td align="center" width="370">
+    <td align="center">
       <img src="assets/logos/ranepa.png" width="auto" height="95" alt="RANEPA Logo">
     </td>
     <td style="padding-bottom: 15px; padding-top: 15px;">
