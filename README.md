@@ -19,7 +19,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 <table style="margin-top: 15px; width: 100%">
   <tr>
-    <td style="padding-bottom: 15px;" width="100%">
+    <td style="padding-bottom: 15px;" width="1000px">
       <strong>LLC «Rotisoft Corporation» – Software Developer</strong> <em>(10.2024 - now)</em><br>
       • Debugging and improving business processes for RC of large companies<br>
       • Expanding IT solutions functionality<br>
@@ -43,6 +43,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
+
     <td style="padding-bottom: 15px; padding-top: 15px;">
       <strong>FSBEI HPE «RANEPA» – Junior Research Fellow</strong> <em>(10.2018 - 02.2019)</em><br>
       • Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018<br>
