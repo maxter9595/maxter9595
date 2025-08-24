@@ -19,24 +19,24 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 ## 💼 Work Experience
 
 **LLC «Rotisoft Corporation» – Software Developer** *(10.2024 - now)*  
- • Debugging and improving business processes for RC of large companies  
- • Expanding IT solutions functionality  
- • Testing and quality assurance of new features
+• Debugging and improving business processes for RC of large companies  
+• Expanding IT solutions functionality  
+• Testing and quality assurance of new features
 
 **LLC «O2RUS» – Intern Developer** *(06.2024 - 09.2024)*  
- • Created a Telegram bot for driver testing  
- • Integrated telebot with Django REST API  
- • Documented and transferred knowledge to the dev team
+• Created a Telegram bot for driver testing  
+• Integrated telebot with Django REST API  
+• Documented and transferred knowledge to the dev team
 
 **LLC «DM-Tech» – SAP Consultant Trainee** *(04.2022 - 10.2022)*  
- • Debugged procurement and logistics in SAP  
- • Learned ABAP for troubleshooting  
- • Wrote SQL queries and worked with SAP DB
+• Debugged procurement and logistics in SAP  
+• Learned ABAP for troubleshooting  
+• Wrote SQL queries and worked with SAP DB
 
 **FSBEI HPE «RANEPA» – Junior Research Fellow** *(10.2018 - 02.2019)*  
- • Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018  
- • Developed Python automation scripts for data collection and processing  
- • Prepared analytical reports and research findings for academic publications
+• Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018  
+• Developed Python automation scripts for data collection and processing  
+• Prepared analytical reports and research findings for academic publications
 
 <div style="margin-top: 30px;">
 
@@ -61,40 +61,40 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 ## 📂 Featured Projects  
 
 **[Chaos Organizer](https://github.com/maxter9595/ahj-diploma.git)** – Messenger for file & message exchange with smart features  
- • Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff)
+• Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff)
 
 **[Heroes vs Monsters](https://github.com/maxter9595/JSBattleGame.git)** – Turn-based 2D fantasy game  
- • Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+• Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
 **[VK2YdWebCloud](https://github.com/maxter9595/VK2YdWebCloud.git)** – Backup app (VK → Yandex Disk) using API  
- • Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![VK API](https://img.shields.io/badge/-VK_API-0077FF?style=flat-square&logo=vk&logoColor=fff) ![Yandex.Disk API](https://img.shields.io/badge/-Yandex_Disk_API-FF0000?style=flat-square&logo=yandex&logoColor=fff)
+• Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![VK API](https://img.shields.io/badge/-VK_API-0077FF?style=flat-square&logo=vk&logoColor=fff) ![Yandex.Disk API](https://img.shields.io/badge/-Yandex_Disk_API-FF0000?style=flat-square&logo=yandex&logoColor=fff)
 
 **[O2RusQuizBot](https://github.com/maxter9595/O2RusQuizBot.git)** – Telegram bot for driver testing  
- • Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff) ![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
+• Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff) ![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
 
 **[FindMe](https://github.com/maxter9595/FindMe.git)** – VK bot for matchmaking with algorithm-based pairing  
- • Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![VK API](https://img.shields.io/badge/-VK_API-0077FF?style=flat-square&logo=vk&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFD43B?style=flat-square&logo=python&logoColor=000) ![psycopg2](https://img.shields.io/badge/-psycopg2-336791?style=flat-square&logo=postgresql&logoColor=fff)
+• Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![VK API](https://img.shields.io/badge/-VK_API-0077FF?style=flat-square&logo=vk&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFD43B?style=flat-square&logo=python&logoColor=000) ![psycopg2](https://img.shields.io/badge/-psycopg2-336791?style=flat-square&logo=postgresql&logoColor=fff)
 
 **[EngStudyBot](https://github.com/maxter9595/EngStudyBot.git)** – Telegram bot for learning English (4000 words)  
- • Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFD43B?style=flat-square&logo=python&logoColor=000)
+• Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFD43B?style=flat-square&logo=python&logoColor=000)
 
 <div style="margin-top: 30px;">
 
 ## 👩‍🎓 Education & Courses
 
 🎓 Education:  
- • PhD in World Economy – RUDN University *(2024)*  
- • Master’s Degree – Economics & Finance, RANEPA *(2020)*  
- • Bachelor’s Degree – World Economy & Trade, RANEPA *(2018)* 
+• PhD in World Economy – RUDN University *(2024)*  
+• Master’s Degree – Economics & Finance, RANEPA *(2020)*  
+• Bachelor’s Degree – World Economy & Trade, RANEPA *(2018)* 
 
 📘 Courses:  
- • Netology – Fullstack Python Developer *(2023 - 2025)*   
- • Stepik, Yersultan Sagandykov – Immersion in JavaScript for beginners *(2024)*  
- • QSOFT – Introduction to PHP syntax *(2024)*  
- • Stepik, FEFU – Interactive SQL Trainer *(2022)*  
- • SPbPU – Intelligent Enterprise with SAP S/4HANA *(2021)*  
- • SAP – Data Analytics with SAP Data Intelligence Platform *(2021)*   
- • RANEPA – Data Analysis & ML with Python *(2019)*  
+• Netology – Fullstack Python Developer *(2023 - 2025)*   
+• Stepik, Yersultan Sagandykov – Immersion in JavaScript for beginners *(2024)*  
+• QSOFT – Introduction to PHP syntax *(2024)*  
+• Stepik, FEFU – Interactive SQL Trainer *(2022)*  
+• SPbPU – Intelligent Enterprise with SAP S/4HANA *(2021)*  
+• SAP – Data Analytics with SAP Data Intelligence Platform *(2021)*   
+• RANEPA – Data Analysis & ML with Python *(2019)*  
 
 <div style="margin-top: 30px;">
 
