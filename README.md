@@ -53,6 +53,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 ### 📊 Personal Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxter9595&layout=compact&theme=tokyonight&hide_border=true&bg_color=45,000000,1a1b27&title_color=70d6ff&text_color=ffffff&icon_color=70d6ff&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
 [![codewars](https://www.codewars.com/users/maxter9595/badges/large)](https://www.codewars.com/users/maxter9595)
 
 <div style="margin-top: 30px;">
