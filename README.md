@@ -80,17 +80,21 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 <div style="margin-top: 30px;">
 
-## 🎓 Education & Courses  
+## 👩‍🎓 Education & Courses
 
-🎓 PhD in World Economy – RUDN University *(2024)*  
-🎓 Master’s Degree – Economics & Finance, RANEPA *(2020)*  
-🎓 Bachelor’s Degree – World Economy & Trade, RANEPA *(2018)*  
+🎓 Education:  
+ • PhD in World Economy – RUDN University *(2024)*  
+ • Master’s Degree – Economics & Finance, RANEPA *(2020)*  
+ • Bachelor’s Degree – World Economy & Trade, RANEPA *(2018)* 
 
 📘 Courses:  
-- Netology – Fullstack Python Developer *(2023 - now)*  
-- Stepik – SQL Interactive Trainer *(2022)*  
-- SPbPU – SAP S/4HANA Intelligent Enterprise *(2021)*  
-- RANEPA – Data Analysis & ML with Python *(2019)*  
+ • Netology – Fullstack Python Developer *(2023 - 2025)*   
+ • Stepik, Yersultan Sagandykov – Immersion in JavaScript for beginners *(2024)*  
+ • QSOFT – Introduction to PHP syntax *(2024)*  
+ • Stepik, FEFU – Interactive SQL Trainer *(2022)*  
+ • SPbPU – Intelligent Enterprise with SAP S/4HANA *(2021)*  
+ • SAP – Data Analytics with SAP Data Intelligence Platform *(2021)*   
+ • RANEPA – Data Analysis & ML with Python *(2019)*  
 
 <div style="margin-top: 30px;">
 
