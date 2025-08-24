@@ -53,26 +53,29 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 ### 📊 Personal Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxter9595&layout=compact&theme=tokyonight&hide_border=true&bg_color=45,000000,1a1b27&title_color=70d6ff&text_color=ffffff&icon_color=70d6ff&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
-
 [![codewars](https://www.codewars.com/users/maxter9595/badges/large)](https://www.codewars.com/users/maxter9595)
 
 <div style="margin-top: 30px;">
 
 ## 📂 Featured Projects  
 
-🔹 **[Chaos Organizer](https://github.com/maxter9595/ahj-diploma.git)** – Messenger for file & message exchange with smart features  
+**[Chaos Organizer](https://github.com/maxter9595/ahj-diploma.git)** – Messenger for file & message exchange with smart features  
+ • Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff)
 
-🔹 **[Heroes vs Monsters](#)** – Turn-based 2D fantasy game  
+**[Heroes vs Monsters](https://github.com/maxter9595/JSBattleGame.git)** – Turn-based 2D fantasy game  
+ • Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 
-🔹 **[VK2YdWebCloud](#)** – Backup app (VK → Yandex Disk) using API  
+**[VK2YdWebCloud](https://github.com/maxter9595/VK2YdWebCloud.git)** – Backup app (VK → Yandex Disk) using API  
+ • Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff) ![VK API](https://img.shields.io/badge/-VK_API-0077FF?style=flat-square&logo=vk&logoColor=fff) ![Yandex.Disk API](https://img.shields.io/badge/-Yandex_Disk_API-FF0000?style=flat-square&logo=yandex&logoColor=fff)
 
-🔹 **[O2RusQuizBot](#)** – Telegram bot for driver testing (REST API + telebot + Django)  
+**[O2RusQuizBot](https://github.com/maxter9595/O2RusQuizBot.git)** – Telegram bot for driver testing  
+ • Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff) ![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=fff) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=fff)
 
-🔹 **[FindMe](#)** – VK bot for matchmaking with algorithm-based pairing  
+**[FindMe](https://github.com/maxter9595/FindMe.git)** – VK bot for matchmaking with algorithm-based pairing  
+ • Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![VK API](https://img.shields.io/badge/-VK_API-0077FF?style=flat-square&logo=vk&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFD43B?style=flat-square&logo=python&logoColor=000) ![psycopg2](https://img.shields.io/badge/-psycopg2-336791?style=flat-square&logo=postgresql&logoColor=fff)
 
-🔹 **[EngStudyBot](#)** – Telegram bot for learning English (4000 words)  
-
-
+**[EngStudyBot](https://github.com/maxter9595/EngStudyBot.git)** – Telegram bot for learning English (4000 words)  
+ • Tech Stack: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff) ![Telegram API](https://img.shields.io/badge/-Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=fff) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFD43B?style=flat-square&logo=python&logoColor=000)
 
 <div style="margin-top: 30px;">
 
