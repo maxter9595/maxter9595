@@ -1,11 +1,12 @@
 <div align="center">
-<h1 style="margin-top:-30px">Hi there, I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>👋 Hello World! I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a></h1>
 
 <h3 style="margin: 15px 0; font-size:20px;">
-  Software Developer from Russia
+  💻 Code Craftsman | 📊 Data Alchemist | 🚀 From Economics PhD to Software Developer
+  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f7-1f1fa.svg" height="20" style="vertical-align: middle; margin-left: 8px;">
 </h3>
 
-<img src="assets/gif/intro.gif" alt="Animated Intro" width="100%" style="margin-top: 20px;">
+<img src="assets/gif/intro.gif" alt="Coding Animation" width="100%" style="margin-top: 20px; border-radius: 10px;">
 
 </div>
 
