@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="margin-top:-50px">Hi there, I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 style="margin-top:-20px">Hi there, I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 style="margin: 15px 0; font-size:20px;">
   Software Developer from Russia
