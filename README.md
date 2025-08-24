@@ -1,16 +1,135 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**maxter9595/maxter9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="margin-bottom: 0;">Hi there, I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-Here are some ideas to get you started:
+<h3 style="margin: 15px 0; font-size:20px;">Software Developer from Russia 🇷🇺</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="assets/gif/intro.gif" alt="Animated Intro" width="auto" style="margin-top: 16.5px;">
+
+</div>
+
+<div style="margin-top: 30px;">
+
+## 🚀 About Me  
+I'm a Software Developer with a unique background in Economics (Ph.D.) who successfully transitioned into IT. Currently, I specialize in creating and optimizing IT solutions for large companies in logistics and retail sectors (X5, Magnit, O'KEY, PepsiCo). I am interested in technology and project teamwork.
+
+<div style="margin-top: 30px;">
+
+## 💼 Work Experience
+
+<table style="margin-top: 15px; margin-bottom: -15px;">
+  <tr>
+    <td align="center" width="150">
+      <img src="assets/logos/rutisoft.png" width="auto" height="auto" alt="Rotisoft Logo">
+    </td>
+    <td style="padding-bottom: 15px;">
+      <strong>LLC «Rotisoft Corporation» – Software Developer</strong> <em>(10.2024 - now)</em><br>
+      • Debugging and improving business processes for RC of large companies<br>
+      • Expanding IT solutions functionality<br>
+      • Testing and quality assurance of new features
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="assets/logos/o2rus.png" width="auto" height="auto" alt="O2RUS Logo">
+    </td>
+    <td style="padding-bottom: 15px; padding-top: 15px;">
+      <strong>LLC «O2RUS» – Intern Developer</strong> <em>(06.2024 - 09.2024)</em><br>
+      • Created a Telegram bot for driver testing<br>
+      • Integrated telebot with Django REST API<br>
+      • Documented and transferred knowledge to the dev team
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="assets/logos/detskiymir.png" width="auto" height="40" alt="DM-Tech Logo">
+    </td>
+    <td style="padding-bottom: 15px; padding-top: 15px;">
+      <strong>LLC «DM-Tech» – SAP Consultant Trainee</strong> <em>(04.2022 - 10.2022)</em><br>
+      • Debugged procurement and logistics in SAP<br>
+      • Learned ABAP for troubleshooting<br>
+      • Wrote SQL queries and worked with SAP DB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="assets/logos/ranepa.png" width="auto" height="95" alt="RANEPA Logo">
+    </td>
+    <td style="padding-bottom: 15px; padding-top: 15px;">
+      <strong>FSBEI HPE «RANEPA» – Junior Research Fellow</strong> <em>(10.2018 - 02.2019)</em><br>
+      • Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018<br>
+      • Developed Python automation scripts for data collection and processing<br>
+      • Prepared analytical reports and research findings for academic publications
+    </td>
+  </tr>
+</table>
+
+<div style="margin-top: 30px;">
+
+## 🛠 Tech & Languages  
+
+### 🔧 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge) ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?logo=apachegroovy&logoColor=fff&style=for-the-badge) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=for-the-badge) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FFD43B?logo=python&logoColor=000&style=for-the-badge) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=000&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)  
+
+
+### 🌐 Languages  
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge) ![Spanish](https://img.shields.io/badge/Spanish-A1-yellow?style=for-the-badge)
+
+<div style="margin-top: 30px;">
+
+## 📂 Featured Projects  
+
+🔹 **[Chaos Organizer](https://github.com/maxter9595/ahj-diploma.git)** – Messenger for file & message exchange with smart features  
+
+🔹 **[Chaos Organizer](https://github.com/maxter9595/ahj-diploma.git)** – Messenger for file & message exchange with smart features  
+
+🔹 **[Heroes vs Monsters](#)** – Turn-based 2D fantasy game  
+
+
+🔹 **[VK2YdWebCloud](#)** – Backup app (VK → Yandex Disk) using API  
+
+🔹 **[O2RusQuizBot](#)** – Telegram bot for driver testing (REST API + telebot + Django)  
+
+🔹 **[FindMe](#)** – VK bot for matchmaking with algorithm-based pairing  
+
+🔹 **[EngStudyBot](#)** – Telegram bot for learning English (4000 words)  
+
+<div style="margin-top: 30px;">
+
+## 📊 GitHub Stats  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxter9595&layout=compact&theme=tokyonight&hide_border=true&bg_color=45,000000,1a1b27&title_color=70d6ff&text_color=ffffff&icon_color=70d6ff&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/maxter9595/badges/large)](https://www.codewars.com/users/maxter9595)
+
+<div style="margin-top: 30px;">
+
+## 🎓 Education & Courses  
+
+🎓 PhD in World Economy – RUDN University *(2024)*  
+🎓 Master’s Degree – Economics & Finance, RANEPA *(2020)*  
+🎓 Bachelor’s Degree – World Economy & Trade, RANEPA *(2018)*  
+
+📘 Courses:  
+- Netology – Fullstack Python Developer *(2023 - now)*  
+- Stepik – SQL Interactive Trainer *(2022)*  
+- SPbPU – SAP S/4HANA Intelligent Enterprise *(2021)*  
+- RANEPA – Data Analysis & ML with Python *(2019)*  
+
+<div style="margin-top: 30px;">
+
+## 🏆 Achievements & Competitions  
+
+- 🥇 Hackathon Winner: Telegram bot for O2RUS (2024)  
+- 🎯 Changellenge Case (SAP Cloud Academy, 2021) – Best score among 150 participants  
+- 🎓 Red diploma (Bachelor), PhD, 5 published scientific papers (Scopus / VAK)  
+- 🤝 Volunteer recognition from RUDN University  
+
+<div style="margin-top: 30px;">
+
+## 📬 Contacts  
+
+📧 **Email:** max.t95@bk.ru  
+📱 **Phone:** +7 (965) 258-97-77  
+💬 **Telegram:** [@maxter1995](https://t.me/maxter1995)  
+🐙 **GitHub:** [maxter9595](https://github.com/maxter9595)  
