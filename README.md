@@ -58,7 +58,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 <div style="margin-top: 30px;">
 
-## 📂 Featured Projects  
+## 📂 Projects  
 
 **[Chaos Organizer](https://github.com/maxter9595/ahj-diploma.git)** – Messenger for file & message exchange with smart features  
 • Tech Stack: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=fff)
@@ -98,12 +98,24 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 <div style="margin-top: 30px;">
 
-## 🏆 Achievements & Competitions  
+## 🏅 Competitions, Cases & Achievements
 
-- 🥇 Hackathon Winner: Telegram bot for O2RUS (2024)  
-- 🎯 Changellenge Case (SAP Cloud Academy, 2021) – Best score among 150 participants  
-- 🎓 Red diploma (Bachelor), PhD, 5 published scientific papers (Scopus / VAK)  
-- 🤝 Volunteer recognition from RUDN University  
+🏆 Competitions:  
+• Hackathon "Telegram bot for O2RUS drivers" (Netology) - Hackathon Winner *(2024)*  
+• National Business Strategy and Management Championship (GMC) – Championship Finalist *(2018)*  
+• Student Management Cup (RANEPA) – Cup Semi-finalist *(2018)* 
+
+💼 Case analysis and solution:  
+• ["Cost Allocation Case"](https://cv-git-main-maxim-terltskiis-projects.vercel.app/cases/case_msg_plaut.pdf) (MSG Plaut) - Successful use of algebraic methods for cost calculation *(2021)*  
+• ["Superproduction Company Case"](https://cv-git-main-maxim-terltskiis-projects.vercel.app/cases/case_changellenge.pdf) (Changellenge) - Successful customer data analysis and OpenAPI service implementation *(2021)*  
+
+🎯 Achievements:  
+• [Bachelor's degree](https://cv-git-main-maxim-terltskiis-projects.vercel.app/about/honours_degree.pdf) with honors   
+• PhD degree ([PhD № 001091](https://cv-git-main-maxim-terltskiis-projects.vercel.app/about/pdf_diploma.pdf))   
+• Gratitude from the RUDN University administration for [volunteer activities](https://cv-git-main-maxim-terltskiis-projects.vercel.app/about/volunteering.pdf)   
+• Achievements in student championships  
+• Presentation at [international scientific conferences](https://cv-git-main-maxim-terltskiis-projects.vercel.app/about/scientific_conferences.pdf)   
+• Author of 5 scientific publications in VAK/Scopus editions (ORCID: [0000-0003-4189-6248](https://orcid.org/0000-0003-4189-6248))
 
 <div style="margin-top: 30px;">
 
