@@ -5,7 +5,7 @@
   💻 Software Developer | 🛠️ Code Craftsman | 📊 Data Alchemist
 </h3>
 
-<img src="assets/gif/intro.gif" alt="Coding Animation" width="100%" style="margin-top: 20px; border-radius: 10px;">
+<img src="assets/gif/intro.gif" alt="Coding Animation" width="50%" style="margin-top: 20px; border-radius: 10px;">
 
 </div>
 
@@ -100,7 +100,8 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 ## 🏆 Achievements & Competitions  
 
-- 🥇 Hackathon Winner: Telegram bot for O2RUS (2024)  
+• 🥇 Hackathon Winner: Telegram bot for O2RUS (2024)  
+
 - 🎯 Changellenge Case (SAP Cloud Academy, 2021) – Best score among 150 participants  
 - 🎓 Red diploma (Bachelor), PhD, 5 published scientific papers (Scopus / VAK)  
 - 🤝 Volunteer recognition from RUDN University  
