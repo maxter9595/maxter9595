@@ -43,7 +43,6 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
-
     <td style="padding-bottom: 15px; padding-top: 15px;">
       <strong>FSBEI HPE «RANEPA» – Junior Research Fellow</strong> <em>(10.2018 - 02.2019)</em><br>
       • Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018<br>
