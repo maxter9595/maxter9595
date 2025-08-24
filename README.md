@@ -1,9 +1,8 @@
 <div align="center">
-<h1>Hi there, I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 style="margin-top:-50px">Hi there, I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 style="margin: 15px 0; font-size:20px;">
-  Software Developer from Russia 
-  <span style="display: inline-block; width: 85px; height: 50px; background: linear-gradient(to bottom, #fff 33%, #0039a6 33%, #0039a6 66%, #d52b1e 66%); margin-left: 8px; vertical-align: middle; border: 1px solid #ddd;"></span>
+  Software Developer from Russia
 </h3>
 
 <img src="assets/gif/intro.gif" alt="Animated Intro" width="100%" style="margin-top: 20px;">
