@@ -19,10 +19,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 <table style="margin-top: 15px; width: 100%">
   <tr>
-    <td align="center" width="500">
-      <img src="assets/logos/rutisoft.png" width="auto" height="auto" alt="Rotisoft Logo">
-    </td>
-    <td style="padding-bottom: 15px;" width="1000">
+    <td style="padding-bottom: 15px;" width="100%">
       <strong>LLC «Rotisoft Corporation» – Software Developer</strong> <em>(10.2024 - now)</em><br>
       • Debugging and improving business processes for RC of large companies<br>
       • Expanding IT solutions functionality<br>
@@ -30,9 +27,6 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="assets/logos/o2rus.png" width="auto" height="auto" alt="O2RUS Logo">
-    </td>
     <td style="padding-bottom: 15px; padding-top: 15px;">
       <strong>LLC «O2RUS» – Intern Developer</strong> <em>(06.2024 - 09.2024)</em><br>
       • Created a Telegram bot for driver testing<br>
@@ -41,9 +35,6 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="assets/logos/detskiymir.png" width="auto" height="40" alt="DM-Tech Logo">
-    </td>
     <td style="padding-bottom: 15px; padding-top: 15px;">
       <strong>LLC «DM-Tech» – SAP Consultant Trainee</strong> <em>(04.2022 - 10.2022)</em><br>
       • Debugged procurement and logistics in SAP<br>
@@ -52,9 +43,6 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="assets/logos/ranepa.png" width="auto" height="95" alt="RANEPA Logo">
-    </td>
     <td style="padding-bottom: 15px; padding-top: 15px;">
       <strong>FSBEI HPE «RANEPA» – Junior Research Fellow</strong> <em>(10.2018 - 02.2019)</em><br>
       • Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018<br>
