@@ -17,40 +17,25 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 ## 💼 Work Experience
 
-<table style="margin-top: 15px; width: 100%">
-  <tr>
-    <td style="padding-bottom: 15px;" width="1000px">
-      <strong>LLC «Rotisoft Corporation» – Software Developer</strong> <em>(10.2024 - now)</em><br>
-      • Debugging and improving business processes for RC of large companies<br>
-      • Expanding IT solutions functionality<br>
-      • Testing and quality assurance of new features
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-bottom: 15px; padding-top: 15px;">
-      <strong>LLC «O2RUS» – Intern Developer</strong> <em>(06.2024 - 09.2024)</em><br>
-      • Created a Telegram bot for driver testing<br>
-      • Integrated telebot with Django REST API<br>
-      • Documented and transferred knowledge to the dev team
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-bottom: 15px; padding-top: 15px;">
-      <strong>LLC «DM-Tech» – SAP Consultant Trainee</strong> <em>(04.2022 - 10.2022)</em><br>
-      • Debugged procurement and logistics in SAP<br>
-      • Learned ABAP for troubleshooting<br>
-      • Wrote SQL queries and worked with SAP DB
-    </td>
-  </tr>
-  <tr>
-    <td style="padding-bottom: 15px; padding-top: 15px;">
-      <strong>FSBEI HPE «RANEPA» – Junior Research Fellow</strong> <em>(10.2018 - 02.2019)</em><br>
-      • Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018<br>
-      • Developed Python automation scripts for data collection and processing<br>
-      • Prepared analytical reports and research findings for academic publications
-    </td>
-  </tr>
-</table>
+**LLC «Rotisoft Corporation» – Software Developer** *(10.2024 - now)*  
+ • Debugging and improving business processes for RC of large companies  
+ • Expanding IT solutions functionality  
+ • Testing and quality assurance of new features
+
+**LLC «O2RUS» – Intern Developer** *(06.2024 - 09.2024)*  
+ • Created a Telegram bot for driver testing  
+ • Integrated telebot with Django REST API  
+ • Documented and transferred knowledge to the dev team
+
+**LLC «DM-Tech» – SAP Consultant Trainee** *(04.2022 - 10.2022)*  
+ • Debugged procurement and logistics in SAP  
+ • Learned ABAP for troubleshooting  
+ • Wrote SQL queries and worked with SAP DB
+
+**FSBEI HPE «RANEPA» – Junior Research Fellow** *(10.2018 - 02.2019)*  
+ • Analyzed the impact of loyalty programs on the Russian banking sector for 2015-2018  
+ • Developed Python automation scripts for data collection and processing  
+ • Prepared analytical reports and research findings for academic publications
 
 <div style="margin-top: 30px;">
 
