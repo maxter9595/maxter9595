@@ -2,7 +2,7 @@
 <h1>👋 Hello World! I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a></h1>
 
 <h3 style="margin: 15px 0; font-size:20px;">
-  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f7-1f1fa.svg" height="20" style="vertical-align: middle; margin-left: 8px;"> Software Developer from Russia | 💻 Code Craftsman | 📊 Data Alchemist
+  💻 Software Developer | 🛠️ Code Craftsman | 📊 Data Alchemist
 </h3>
 
 <img src="assets/gif/intro.gif" alt="Coding Animation" width="100%" style="margin-top: 20px; border-radius: 10px;">
