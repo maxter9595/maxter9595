@@ -2,8 +2,7 @@
 <h1>👋 Hello World! I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a></h1>
 
 <h3 style="margin: 15px 0; font-size:20px;">
-  💻 Code Craftsman | 📊 Data Alchemist | 🚀 Software Developer from Russia
-  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f7-1f1fa.svg" height="20" style="vertical-align: middle; margin-left: 8px;">
+  <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f7-1f1fa.svg" height="20" style="vertical-align: middle; margin-left: 8px;"> Software Developer from Russia | 💻 Code Craftsman | 📊 Data Alchemist
 </h3>
 
 <img src="assets/gif/intro.gif" alt="Coding Animation" width="100%" style="margin-top: 20px; border-radius: 10px;">
@@ -65,7 +64,6 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 🔹 **[Heroes vs Monsters](#)** – Turn-based 2D fantasy game  
 
-
 🔹 **[VK2YdWebCloud](#)** – Backup app (VK → Yandex Disk) using API  
 
 🔹 **[O2RusQuizBot](#)** – Telegram bot for driver testing (REST API + telebot + Django)  
@@ -73,6 +71,8 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 🔹 **[FindMe](#)** – VK bot for matchmaking with algorithm-based pairing  
 
 🔹 **[EngStudyBot](#)** – Telegram bot for learning English (4000 words)  
+
+
 
 <div style="margin-top: 30px;">
 
