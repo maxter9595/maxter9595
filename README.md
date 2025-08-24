@@ -109,7 +109,7 @@ I'm a Software Developer with a unique background in Economics (Ph.D.) who succe
 
 ## 📬 Contacts  
 
-📧 **Email:** [max.t95@bk.ru](mailto:max.t95@bk.ru), [mvterletskiy@gmail.com](mailto:mvterletskiy@gmail.com)
+📧 **Email:** [max.t95@bk.ru](mailto:max.t95@bk.ru), [mvterletskiy@gmail.com](mailto:mvterletskiy@gmail.com)   
 📱 **Phone:** [+7 (965) 258-97-77](tel:+79652589777)  
 💬 **Telegram:** [@maxter1995](https://t.me/maxter1995)  
 👥 **VK:** [maxter95](https://vk.com/maxter95)  
