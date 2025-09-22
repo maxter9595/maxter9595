@@ -1,16 +1,3 @@
-<div align="center">
-<h1>👋 Hello World! I'm <a href="https://cv-git-main-maxim-terltskiis-projects.vercel.app/" target="_blank">Maxim Terletskii</a></h1>
-
-<h3 style="margin: 15px 0; font-size:22px;">
-  💻 Software Developer | 🛠️ Code Craftsman | 📊 Data Alchemist
-</h3>
-
-<img src="assets/gif/intro.gif" alt="Coding Animation" width="50%" style="margin-top: 20px; border-radius: 10px;">
-
-</div>
-
-<div style="margin-top: 30px;">
-
 ## 🚀 About Me  
 I'm a Software Developer with a unique background in Economics (Ph.D.) who successfully transitioned into IT. Currently, I specialize in creating and optimizing IT solutions for large companies in logistics and retail sectors (X5, Magnit, O'KEY, PepsiCo). I am interested in technology and project teamwork.
 
